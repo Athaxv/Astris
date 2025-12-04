@@ -1,0 +1,7 @@
+{
+  "name": "NeonForge XR",
+  "description": "A futuristic, gesture-controlled 3D modeling environment powered by AI hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
